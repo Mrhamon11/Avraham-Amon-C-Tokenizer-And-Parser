@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/FirstFinder.h
+
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/ParserStructs.h
+Tokenizer_DataStructs.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/Tokenizer_DataStructs.h
+
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/Parser_Main.c
+Tokenizer_Main.c
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/Tokenizer_Main.c
+FirstFinder.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/FirstFinder.h
+ParserStructs.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/ParserStructs.h
+
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/Tokenizer_DataStructs.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/Tokenizer_Main.c
+stdio.h
+-
+ctype.h
+-
+Tokenizer_DataStructs.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 6 - Top Down Parser/C-Tokenizer-And-Parser/Tokenizer_DataStructs.h
+

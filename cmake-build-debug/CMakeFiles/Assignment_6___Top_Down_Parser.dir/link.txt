@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Assignment_6___Top_Down_Parser.dir/Parser_Main.c.o  -o Assignment_6___Top_Down_Parser 
